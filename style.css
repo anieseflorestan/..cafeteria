@@ -1,0 +1,11 @@
+#hero{
+    background-color: #035304;
+    color: aliceblue;
+    pagging: 100px 0;
+}
+
+
+.card img{
+    height: 200px;
+    object-fit: cover;
+}
